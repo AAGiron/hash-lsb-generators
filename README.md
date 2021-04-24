@@ -2,7 +2,7 @@
 
 A repository for the implementations that outputs the Least Significant Bit (LSB) from hashes.
 
-Available algorithm(s): `keccak_256`.
+Available algorithm(s): `keccak_256`, `SHA256` .
 
 ## How can I use it?
 
